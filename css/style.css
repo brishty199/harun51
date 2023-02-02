@@ -1,0 +1,21 @@
+h1{
+  text-align: center;
+  background-color: aliceblue;
+  color: rgb(6, 112, 112);
+}
+
+p{
+  color: rgb(1, 65, 65);
+  font-size: 150%;
+}
+.tnx{
+  font-size: 250%;
+  color: rgb(18, 15, 216) ;
+}
+.btn{
+  color: white;
+  background-color: black;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 5px 16px;
+}
